@@ -1,0 +1,10 @@
+<package>
+    <description brief="Demo package">
+    </description>
+    <maintainer></maintainer>
+    <license>GPLv3</license>
+    <url>https://github.com/g-arjones/demo_pkg</url>
+    <!-- depend package="nano"/ -->
+    <!-- depend package="numpy"/ -->
+</package>
+
